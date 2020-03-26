@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/christianJimenez1999/christianJimenez1999-CST336-REQUEST-OPENAPILIBRARY/issues"
   },
-  "homepage": "https://github.com/christianJimenez1999/christianJimenez1999-CST336-REQUEST-OPENAPILIBRARY#readme"
+  "homepage": "https://github.com/christianJimenez1999/christianJimenez1999-CST336-REQUEST-OPENAPILIBRARY#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
 }
